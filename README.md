@@ -11,3 +11,5 @@ Ini adalah dokumentasi perjalanan belajar flutter saya.
 ## Hari 2
 - Belajar Widget dasar: `Text`, `Container`, `Row`, `Column`
 - Mencoba membuat tampilan sederhana
+
+![Flutter Logo](images/flutter-logo.png)
