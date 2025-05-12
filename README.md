@@ -12,6 +12,7 @@ Ini adalah dokumentasi perjalanan belajar flutter saya.
 - Belajar Widget dasar: `Text`, `Container`, `Row`, `Column`
 - Mencoba membuat tampilan sederhana
 
+- Gunakan width atau height, jangan keduanya kalau kamu ingin menjaga proporsi.
 <img src="images/icon.png" alt="Flutter Logo" width="200"/>
 
 ![Flutter Logo](images/icon.png)
