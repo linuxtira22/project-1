@@ -30,6 +30,12 @@ class Page1 extends StatelessWidget {
                 height: 100.0,
                 color: Colors.orange,
               ),
+              Divider(),
+              Text("Penambahan 1 kotak ungu"),
+              Container(
+                height: 100.0,
+                color: Colors.purple,
+              ),
             ],
           ),
         ),
