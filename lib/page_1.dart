@@ -36,6 +36,15 @@ class Page1 extends StatelessWidget {
                 height: 100.0,
                 color: Colors.purple,
               ),
+              Divider(),
+              Text("Penambahan 1 bundar ungu"),
+              Container(
+                height: 100.0,
+                decoration: const BoxDecoration(
+                  color: Colors.blue,
+                  shape: BoxShape.circle,
+                ),
+              ),
             ],
           ),
         ),
